@@ -1,6 +1,6 @@
-# Indian Sign Language Interpretation Convolutional Neural Network Model
+# Indian Sign Language Interpretation CNN Model
 
-## Brief Description
+
 
 This project is a convolutional neural network (CNN) model designed for interpreting Indian Sign Language (ISL). The model takes images of a hand as input, analyzes the image, performs feature extraction, and eventually outputs the letter or number the sign stands for. 
 
